@@ -1,9 +1,6 @@
 # JuTube
 
-Weżcie sobie obejrżyć filmy na JuTube
-Na Jutube
-Tube Tube Tube
-Na Jutube.
+Weżcie sobie obejrzyjcie filmy na JuTube Na JuTube Tube Tube Tube Na Jutube
 
 # Insalatione Instructions
 1: make sure you have VLC x86 installed (NOT x64 because it will not work)
