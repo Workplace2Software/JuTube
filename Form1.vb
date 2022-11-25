@@ -1,4 +1,7 @@
 ﻿Public Class Form1
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        MsgBox("Welcome to Jutube Please press load and then when progress bar shows maximum and music ends press load again to loaf into JuTube. Please keep watch for the ads and pleas watch so we make money and can take down Evil Mr Youtube -Barry Workplace")
+    End Sub
 
     Private Sub Button1_Click(sender As System.Object, e As System.EventArgs) Handles Button1.Click
         MsgBox("Warning Error: When program progress bar shoe 100%. please press load again. Thanky ou")
@@ -22,6 +25,12 @@
     End Sub
 
     Private Sub Button2_Click(sender As System.Object, e As System.EventArgs) Handles Button2.Click
-        thisissamsung.Show()
+        MessageBox.Show("we havent made this yet", _
+    "warning")
+    End Sub
+
+    Private Sub Button3_Click(sender As System.Object, e As System.EventArgs)
+        MessageBox.Show("The Dev Codes is awesome.", _
+    "Important Message")
     End Sub
 End Class
